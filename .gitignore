@@ -30,3 +30,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
+/Codeigniter_MCQ.zip
+/cquiz.sql
+/cquiz27_10_22.rar
+/darkpan-1.0.0
